@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagaciouszu
 - 🌱 I’m currently learning pushing updates to my READMEs on time.
-- 💞️ I’m looking to collaborate on stuff. Cool stuff. 
+- 🔌 Learning about the magic of ESP32.
 
 <!---
 sagaciouszu/sagaciouszu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
